@@ -1,0 +1,31 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "HH52Y7S24R.com.dev.cartogram.app",
+        "paths": [
+          "*"
+        ]
+      },
+    {
+        "appID": "HH52Y7S24R.com.cartogram.vidant",
+        "paths": [
+            "*"
+        ]
+    },
+    {
+        "appID": "HH52Y7S24R.com.cartogram.hcc",
+        "paths": [
+            "*"
+        ]
+    },
+    {
+        "appID": "HH52Y7S24R.com.cartogram.sinclaircc",
+        "paths": [
+            "indoormaps.com/"
+        ]
+    }
+    ]
+  }
+}
